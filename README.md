@@ -5,7 +5,7 @@ The idea of the project is Railway ticket Reservation system. The project handle
 3.print booked tickets (details with summary)
 4.print available tickets (details with summary)
 
-The project takes the initial conditions as 63 berths for 63 confirmed tickets, 9 berths for 18 RAC tickets and 10 tickets in waiting-list. If the waiting-list ticket count goes above 10, print as ‘No tickets available’. The following passenger details should be obtained from the user.
+The project takes the initial conditions as 61 berths for 61 confirmed tickets, 9 berths for 18 RAC tickets and 10 tickets in waiting-list. If the waiting-list ticket count goes above 10, print as ‘No tickets available’. The following passenger details should be obtained from the user.
 The uppder limit of the initial conditions can be decided by the developer.
 1.Name
 2.Age
