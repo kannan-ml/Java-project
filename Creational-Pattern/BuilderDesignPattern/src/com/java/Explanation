@@ -1,0 +1,14 @@
+1.It is one of the creation Design patter(Especially deals with object creation)
+2.If you want to create an object step by step the Builder Design pattern will help you to achieve that.
+for example(
+1. In first step get input from the user
+2.waiting for data to query
+and so.on)
+
+
+
+
+Application:
+1.To create an immutable object we can use BuilderDesignPattern
+2.To create a complex object we can use BuilderDesignPattern
+
